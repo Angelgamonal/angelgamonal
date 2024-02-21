@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **Node.js, ReactJs**
 - 📫 Reach out to me: **angelgamonal.t@gmail.com**
-- ✍ You can find my resume [here](https://drive.google.com/file/d/1IvE2HjkxMTJBD8UKGH7r1Coq-yNi2Meu/view)
+- ✍ You can find my resume [here](https://drive.google.com/file/d/1R5DQrofCjExObfI_1_N1WoKdwP8KEFeK/view?usp=sharing)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
