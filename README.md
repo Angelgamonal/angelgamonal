@@ -8,7 +8,7 @@
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on project with NextJS
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS** & **Angular**
 - 💬 Ask me about **Node.js, ReactJs**
 - 📫 Reach out to me: **angelgamonal.t@gmail.com**
 - ✍ You can find my resume [here](https://drive.google.com/file/d/1R5DQrofCjExObfI_1_N1WoKdwP8KEFeK/view?usp=sharing)
